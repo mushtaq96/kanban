@@ -2,7 +2,9 @@
 1 `git clone [insert url]`
 2 `cd kanban`
 3 `yarn install` # this runs the react app on localhost
- 
+
+1. `cd server`
+2. `node index.js` # this runs the node server 
 
 
 # Getting Started with Create React App
